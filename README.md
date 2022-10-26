@@ -1,0 +1,1 @@
+Choose your recipes for the week and generate your grocery list.
